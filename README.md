@@ -1,14 +1,10 @@
-# Ciao, sono Matteo! 👋
+# Matteo 👋
 
 ## Progetti Principali
 
-1. **P2P-Chat**
-   - Descrizione: Java-based Peer-to-Peer (P2P) chat
-   - Repository: [P2P-Chat on GitHub](https://github.com/Matteo6782/Unity-Scirpt)
+[P2P-Chat](https://github.com/Matteo6782/Unity-Scirpt): Java-based Peer-to-Peer (P2P) chat
 
-2. **Unity-Scirpt**
-   - Descrizione: Alcuni dei miei script Unity
-   - Repository: [Unity-Scirpt on GitHub](https://github.com/Matteo6782/Unity-Scirpt)
+[Unity-Scirpt](https://github.com/Matteo6782/Unity-Scirpt): Alcuni dei miei script Unity
 
 ## Competenze
 
@@ -20,12 +16,10 @@
 
 ## Contatti
 
-- Youtube: [Matteoツ](https://www.youtube.com/@matteo9471)
-- LinkedIn: [Matteo](https://matteo6782.itch.io/)
-- itch.io: [Matteo](https://matteo6782.itch.io/)
+- [Youtube: Matteoツ](https://www.youtube.com/@matteo9471)
+- [LinkedIn: Matteo](https://matteo6782.itch.io/)
+- [itch.io: Matteo](https://matteo6782.itch.io/)
 
 ## Contributi
 
-Suggerimenti e contributi sono benvenuti!
-
-Grazie per aver visitato il mio profilo. Happy coding! 🚀
+Suggerimenti e contributi sono benvenuti! Grazie per aver visitato il mio profilo. Happy coding! 🚀
