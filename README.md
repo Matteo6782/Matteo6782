@@ -1,7 +1,7 @@
 # Ciao, sono Matteo! 👋
 
 ![GitHub Followers](https://img.shields.io/github/followers/Matteo6782?style=for-the-badge)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/Matteo6782?style=for-the-badge)
+<!--![GitHub Sponsors](https://img.shields.io/github/sponsors/Matteo6782?style=for-the-badge) -->
 
 ## Chi sono?
 
