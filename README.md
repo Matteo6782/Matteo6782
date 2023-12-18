@@ -21,7 +21,6 @@ Controlla i miei progetti fissati per vedere cosa amo fare.
 ## Contatti
 
 [![YouTube](https://img.shields.io/badge/YouTube-Matteoツ-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@matteo9471)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matteo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matteo-giordano-7a493623a)
 [![itch.io](https://img.shields.io/badge/itch.io-Matteo-FA5C5C?style=for-the-badge&logo=itch-dot-io&logoColor=white)](https://matteo6782.itch.io/)
 
 ## Contributi
