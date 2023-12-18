@@ -4,10 +4,8 @@
 
 ## Chi sono?
 
-Ciao, mi chiamo Matteo. Sono uno sviluppatore appassionato di giochi e tecnologia. Vivo per risolvere problemi e creare esperienze coinvolgenti attraverso il codice.
-
-Controlla i miei progetti fissati per vedere cosa amo fare e seguimi per essere aggiornato sui miei prossimi progetti in sviluppo.
-Se desideri darmi una mano, considera l'opzione di diventare uno sponsor.
+Sono uno sviluppatore appassionato di giochi e tecnologia.
+Controlla i miei progetti fissati per vedere cosa amo fare.
 
 ## Stack
 
