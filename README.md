@@ -9,10 +9,10 @@
 ## Competenze
 
 - Linguaggi di programmazione:
-  - PHP/HTML/CSS
-  - JavaScript/Java
-  - Python
-  - C#/Unity
+  ![PHP/HTML/CSS]
+  ![JavaScript/Java]
+  ![Python]
+  ![C#/Unity]
 
 ## Contatti
 
