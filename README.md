@@ -22,6 +22,7 @@ Controlla i miei progetti fissati per vedere cosa amo fare.
 
 [![YouTube](https://img.shields.io/badge/YouTube-Matteoツ-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@matteo9471)
 [![itch.io](https://img.shields.io/badge/itch.io-Matteo-FA5C5C?style=for-the-badge&logo=itch-dot-io&logoColor=white)](https://matteo6782.itch.io/)
+[![linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Matteo6782)
 
 ## Contributi
 
