@@ -4,7 +4,6 @@
 
 ## Chi sono?
 
-Sono uno sviluppatore appassionato di giochi e tecnologia.
 Controlla i miei progetti fissati per vedere cosa amo fare.
 
 ## Stack
